@@ -19,5 +19,5 @@ EStudante de Engenheiro de software
 - Brunel belloni ntirenganya
 EStudante de Engenheiro de software
 
-### Nome do integrante 4
+- Diogo Ribeiro Da Silva
 Estudante de Engenheiro de software

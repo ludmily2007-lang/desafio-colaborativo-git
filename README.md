@@ -7,3 +7,17 @@
 - Python
 - C
 - SQL
+
+## Criar seção de apresentação dos membros
+
+- Ludmily Lorrany
+Estudante de Sistemas de Informação.
+
+- Raí Caetano Dias de Almeida
+EStudante de Engenheiro de software
+
+- Brunel belloni ntirenganya
+EStudante de Engenheiro de software
+
+### Nome do integrante 4
+Estudante de Engenheiro de software
